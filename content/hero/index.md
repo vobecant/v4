@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Antonin Vobecky'
+subtitle: 'I a PhD student focusing on Computer Vision.'
 buttonText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a PhD student at the CTU in Prague under supervision of Dr. Josef Sivic. My main focus in on the Computer Vision.
