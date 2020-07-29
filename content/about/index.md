@@ -2,18 +2,16 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Python
+  - PyTorch
+  - TensorFlow
+  - Matlab
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hi! I'm Antonin, a PhD student based in Prague, Czech Republic.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+What do I specialize at. What is my goal and what I like to do.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+A short writing about school, cooperation with Valeo and link to valeo.ai team. What do I work on
 
-Here are a few technologies I've been working with recently:
+Maybe put some publications here?
